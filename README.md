@@ -5,3 +5,4 @@ Anthony Bell
 
 Member 1: Prachi Hada
 Member 2: Khoa Le
+Member 3: Azhad Mahmood
