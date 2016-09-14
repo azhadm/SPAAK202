@@ -4,3 +4,4 @@ Commits:
 Anthony Bell 
 
 Member 1: Prachi Hada
+Member 2: Khoa Le
